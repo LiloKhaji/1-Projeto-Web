@@ -1,0 +1,1 @@
+Olá pra você que escolheu esse repositório! Nessa repositório você vai encontrar um site bem simples feito com as tecnolgias html5, css3 esse site(website) usando html e css foi feito apenas para praticar os estudos sobre programação front-end. Espero que goste! Criado no mês 06/2024.
